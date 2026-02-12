@@ -1,6 +1,6 @@
 cask "focuslens" do
   version "1.8.2"
-  sha256 "33c4dd6308cd7137f11275e0db30b67fc96fef144d7454acc7dad1118a96698e"
+  sha256 "d832e256810df9b3ad9c55682be6f0fd1da077be61ac22c99cb36fc709b5bf9c"
 
   url "https://github.com/brandonnoh/homebrew-focuslens/releases/download/v#{version}/FocusLens-#{version}.dmg"
   name "FocusLens"

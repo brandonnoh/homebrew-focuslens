@@ -1,11 +1,11 @@
 cask "focuslens" do
-  version "2.0.4"
-  sha256 "51596af37483c3e14921927aa7169c312d63219feeac34a075a53564d5a3a1af"
+  version "2.1.0"
+  sha256 "4cd9292ba7a0ad3354712e3f489b97b0f3f067a886b91518069d5faf7ce598d1"
 
   url "https://github.com/brandonnoh/homebrew-focuslens/releases/download/v#{version}/FocusLens-#{version}.dmg"
   name "FocusLens"
   desc "Gaze-based focus time tracker - measures only when you're looking at the screen"
-  homepage "https://focuslens.app"
+  homepage "https://focuslens.cc"
 
   depends_on macos: ">= :sonoma"
 
